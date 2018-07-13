@@ -13,4 +13,4 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/One-Meter-Sunlight/springcloudconfig/
